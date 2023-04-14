@@ -5,7 +5,7 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-![er](Images/er.png)
+![er](/dataproject/Images/er.png)
 
 ## DESIGN STEPS
 
@@ -41,7 +41,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![orm](/Images/orm.png)
+![orm](/dataproject/Images/orm.png)
 
 ## RESULT
 
