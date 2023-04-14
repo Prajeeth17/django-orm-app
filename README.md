@@ -41,7 +41,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![orm](/orm.jpg)
+![orm](/orm.png)
 
 ## RESULT
 
