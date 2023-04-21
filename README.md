@@ -43,6 +43,9 @@ class StudentAdmin(admin.ModelAdmin):
 ## OUTPUT
 ![orm](/dataproject/Images/orm.png)
 
+### Server Output
+![sop](/dataproject/Images/sop.jpg)
+
 ## RESULT
 
 Thus we developed a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
